@@ -1,5 +1,5 @@
 
-# Manipulation de Matrices Carrées en C
+# Manipulation de Matrices Carrées en C : Produit Convolutionnel 
 
 Ce projet vise à implémenter des opérations de manipulation de matrices carrées de taille variable en langage C. L'objectif est de fournir des fonctionnalités pour créer, gérer et appliquer des opérations de convolution sur des images 2D représentées sous forme de matrices.
 
