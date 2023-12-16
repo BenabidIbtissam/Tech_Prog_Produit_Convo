@@ -22,8 +22,6 @@ Ce projet vise à implémenter des opérations de manipulation de matrices carr�
     ```bash
     ./main
 
-
-
 ### Auteur
 
 Ibtissam BENABID\
